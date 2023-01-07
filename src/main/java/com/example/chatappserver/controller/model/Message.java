@@ -1,10 +1,6 @@
-package com.example.chatappserver.model;
+package com.example.chatappserver.controller.model;
 
-import lombok.Getter;
-import lombok.Setter;
-import lombok.NoArgsConstructor;
-import lombok.AllArgsConstructor;
-import lombok.ToString;
+import lombok.*;
 
 @Getter
 @Setter

@@ -1,4 +1,4 @@
-package com.example.chatappserver.model;
+package com.example.chatappserver.controller.model;
 
 public enum Status {
     CONNECT,
